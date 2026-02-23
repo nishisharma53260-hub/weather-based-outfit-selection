@@ -1,0 +1,5 @@
+{
+  "name": "ChicAI - Personal Stylist",
+  "description": "AI-powered fashion recommendations and virtual try-on with a chic pink aesthetic.",
+  "requestFramePermissions": ["camera", "geolocation"]
+}
